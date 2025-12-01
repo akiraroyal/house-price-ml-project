@@ -9,9 +9,9 @@ Predict the final sale price of homes based on property features such as size, l
 ## Skills Demonstrated
 Data cleaning, Feature engineering, Categorical encoding, Log transformation, Regression modeling, Model evaluation (RMSE), Visual diagnostics
 
-## 📁 Files
+## Files
 house_price_prediction_ml.ipynb – Full notebook  
 train.csv – Kaggle training dataset
 
-## 📎 Dataset Source
+## Dataset Source
 Kaggle: House Prices – Advanced Regression Techniques
